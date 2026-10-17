@@ -115,3 +115,9 @@ General-purpose OpenTelemetry backends that GenAI spans can be sent to when you 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Suggestions and corrections welcome, especially for anything on this list that has gone stale.
 
 To the extent possible under law, Angel Hermon has waived all copyright and related or neighboring rights to this work. CC0 1.0, 2026.
+
+<!-- fork-notice: start -->
+### Legal notice for this fork
+
+This repository is a fork of an upstream project. The original authors' licenses, copyrights and terms remain in force. Read the [Supplemental Fork Risk Notice](DISCLAIMER.md) for information about the fork maintainer's contributions. This notice does not amend upstream terms or waive mandatory rights.
+<!-- fork-notice: end -->
